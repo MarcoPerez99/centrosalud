@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/centrosalud/static/css/main.a36b53d0.css",
+    "main.js": "/centrosalud/static/js/main.fbf54ad7.js",
+    "static/js/787.43257874.chunk.js": "/centrosalud/static/js/787.43257874.chunk.js",
+    "static/media/img2.jpg": "/centrosalud/static/media/img2.2c00889371b08b63d1e9.jpg",
+    "static/media/ini3.jpg": "/centrosalud/static/media/ini3.a31ec9cb69e9361bd3ed.jpg",
+    "static/media/ini2.jpg": "/centrosalud/static/media/ini2.d646f51ca7bcd25e0be9.jpg",
+    "static/media/direc.png": "/centrosalud/static/media/direc.5bf98cd8d2f4ef4992bf.png",
+    "static/media/credito.jpg": "/centrosalud/static/media/credito.4abbc2d65611a03f8c8f.jpg",
+    "static/media/orga.jpg": "/centrosalud/static/media/orga.4cb1ae1971acc970af21.jpg",
+    "static/media/valores.jpg": "/centrosalud/static/media/valores.e1d52792ca98cf18f5fd.jpg",
+    "static/media/historia-1.jpg": "/centrosalud/static/media/historia-1.1a035add0e20a8988d13.jpg",
+    "static/media/historia-2.jpg": "/centrosalud/static/media/historia-2.08bb34060d3d8b24cc04.jpg",
+    "static/media/ini1.jpeg": "/centrosalud/static/media/ini1.c2a5c4efc3d19435d442.jpeg",
+    "index.html": "/centrosalud/index.html",
+    "main.a36b53d0.css.map": "/centrosalud/static/css/main.a36b53d0.css.map",
+    "main.fbf54ad7.js.map": "/centrosalud/static/js/main.fbf54ad7.js.map",
+    "787.43257874.chunk.js.map": "/centrosalud/static/js/787.43257874.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a36b53d0.css",
+    "static/js/main.fbf54ad7.js"
+  ]
+}
